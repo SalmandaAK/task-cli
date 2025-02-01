@@ -28,14 +28,14 @@ Go 1.23.0
 # Output: Task added successfully (ID:1)
 
 # Updating tasks
-./task-cli update <ID> "<Task Description>"
+./task-cli update <Task ID> "<Task Description>"
 
 # Deleting tasks
-./task-cli delete <ID>
+./task-cli delete <Task ID>
 
 # Marking tasks as in-progress or done
-./task-cli mark-in-progress <ID>
-./task-cli mark-done <ID>
+./task-cli mark-in-progress <Task ID>
+./task-cli mark-done <Task ID>
 
 # Listing all tasks
 ./task-cli list
