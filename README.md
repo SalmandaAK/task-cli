@@ -6,15 +6,21 @@ A Task Tracker CLI made using Go for [roadmap.sh backend project](https://roadma
 ## Pre-requisite
 Go 1.23.0
 
-## Setup to Run Locally
-1. Clone this Github repository
-2. Go to the folder
-3. Build executable file
-```
-go build cmd/task-cli.go
-```
-
 ## Usage
+### Clone Repository and Build app
+1. Clone this Github repository
+   ```
+   git clone https://github.com/SalmandaAK/task-cli.git
+   ```
+2. Go to the folder
+   ```
+   cd task-cli
+   ```
+3. Build executable file
+   ```
+   go build cmd/task-cli.go
+   ```
+
 ### Commands
 ```
 # Adding a new task
