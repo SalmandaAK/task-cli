@@ -5,7 +5,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/SalmandaAK/task-cli/task/domain"
+	"github.com/SalmandaAK/task-cli/internal/task/domain"
 )
 
 // PrintTasks will print tasks with following format:

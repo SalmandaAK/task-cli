@@ -4,10 +4,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SalmandaAK/task-cli/console/controller"
-	"github.com/SalmandaAK/task-cli/console/router"
-	"github.com/SalmandaAK/task-cli/task/db"
-	"github.com/SalmandaAK/task-cli/task/service"
+	"github.com/SalmandaAK/task-cli/internal/console/controller"
+	"github.com/SalmandaAK/task-cli/internal/console/router"
+	"github.com/SalmandaAK/task-cli/internal/task/db"
+	"github.com/SalmandaAK/task-cli/internal/task/service"
 )
 
 func main() {

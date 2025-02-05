@@ -3,7 +3,7 @@ package view
 import (
 	"fmt"
 
-	"github.com/SalmandaAK/task-cli/task/domain"
+	"github.com/SalmandaAK/task-cli/internal/task/domain"
 )
 
 func DisplayError(actionPerformed string, err error) {

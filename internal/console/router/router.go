@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/SalmandaAK/task-cli/console/controller"
+	"github.com/SalmandaAK/task-cli/internal/console/controller"
 )
 
 var (

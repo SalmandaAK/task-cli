@@ -8,7 +8,7 @@ import (
 	"os"
 	"slices"
 
-	"github.com/SalmandaAK/task-cli/task/domain"
+	"github.com/SalmandaAK/task-cli/internal/task/domain"
 )
 
 var (

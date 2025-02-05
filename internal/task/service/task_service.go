@@ -4,7 +4,7 @@ import (
 	"slices"
 	"time"
 
-	"github.com/SalmandaAK/task-cli/task/domain"
+	"github.com/SalmandaAK/task-cli/internal/task/domain"
 )
 
 type TaskService struct {

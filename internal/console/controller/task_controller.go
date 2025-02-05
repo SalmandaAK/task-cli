@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/SalmandaAK/task-cli/console/view"
-	"github.com/SalmandaAK/task-cli/task/domain"
-	"github.com/SalmandaAK/task-cli/task/service"
+	"github.com/SalmandaAK/task-cli/internal/console/view"
+	"github.com/SalmandaAK/task-cli/internal/task/domain"
+	"github.com/SalmandaAK/task-cli/internal/task/service"
 )
 
 var (
